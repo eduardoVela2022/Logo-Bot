@@ -1,7 +1,7 @@
-const logoBot = require("./lib/logoBot");
+const runLogoBot = require("./lib/logoBot");
 
 function init() {
-  logoBot();
+  runLogoBot();
 }
 
 init();
