@@ -1,0 +1,16 @@
+<!-- Triangle logo example -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+      <polygon points="150,0 250,200 50,200" style="fill: orange" />
+
+      <text
+        x="50%"
+        y="75%"
+        dominant-baseline="middle"
+        text-anchor="middle"
+        font-size="56"
+        fill="black"
+      >
+        TRI
+      </text>
+    </svg>
+    
