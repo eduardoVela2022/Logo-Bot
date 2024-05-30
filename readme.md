@@ -34,7 +34,7 @@ Logo Bot allows you to generate a simple logo and its SVG file. I built this pro
 
 ## Usage
 
-To learn how to use this project check out the following walkthrough video:
+To learn how to use this project check out the following walkthrough video: https://drive.google.com/file/d/1v_ljYQuOpCeCTgfK88lT8pIDTnylkG1v/view?usp=sharing
 
 ## Credits
 
